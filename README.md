@@ -18,12 +18,15 @@ The Supermarket Billing System is a C++ application designed to streamline and a
    git clone https://github.com/Me-lab-c/Supermarket-Billing-System.git
 
 2. Navigate to the project directory:
+
    cd Supermarket-Billing-System
 
-3. Compile the code:
+4. Compile the code:
+
 g++ -o supermarket_billing main.cpp
 
-4. Run the program:
+5. Run the program:
+
 ./supermarket_billing
 
 
